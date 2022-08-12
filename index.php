@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 $id = $_GET['id'];  //SteamID，可以在这里获取:https://steamsignature.com
 $type = $_GET['type'];  //all(默认)，recent，perfect
 
